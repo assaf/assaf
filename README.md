@@ -4,4 +4,4 @@
 
 🏖 Right now I'm “inbetween startups“, just a fancy way of saying I do some freelance consulting/advising, while planning where to land next.
 
-☕️ I blog at https://labnotes.org/ about software design and development, people and management, culture and technology. **[Feel free to subscribe](https://labnotes.org/#subscribe)**.
+☕️ I blog at https://labnotes.org/ about software design and development, people and management, culture and technology. **[Feel free to subscribe](https://labnotes.org/)**.
