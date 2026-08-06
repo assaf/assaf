@@ -2,6 +2,6 @@
 
 👏 Hey there, I’m Assaf.
 
-👨‍💼 Founder of [Rentail](https://rentail.space), where we help merchants find specialty retail across thousands of malls, and founder of [cite.me.in](https://cite.me.in), which helps founders build AEO/GEO visibility for their startup.
+👨‍💼 I'm cranking out projects like there's no tomorrow. Having fun coming out with new ideas and pushing AI to the limits.
 
 ☕ Find me on [Mastodon](https://mas.to/deck/@assaf) [labnotes.org](https://labnotes.org), [Github](https://github.com/assaf), [LinkedIn](https://www.linkedin.com/in/assafarkin/), and via snail email 📬 [assaf@labnotes.org](mailto:assaf@labnotes.org).
