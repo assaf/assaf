@@ -2,7 +2,7 @@
 
 👏 Hey there, I'm Assaf.
 
-👨💼 I ship software that people actually use. These days I write less code, I steward AI agents to write most of it, and I devote my time to design, review, testing, and avoiding the slop. Turns out that's a better use of my skills.
+👨🏻‍💻 I ship software that people actually use. These days I write less code, I steward AI agents to write most of it, and I devote my time to design, review, testing, and avoiding the slop. Turns out that's a better use of my skills.
 
 🧪 I've been building developer tools since before it was a startup category: [Zombie](https://github.com/assaf/zombie) (headless browser testing), [Vanity](https://github.com/assaf/vanity) (A/B testing), [node-replay](https://github.com/assaf/node-replay) (HTTP record/replay), and a pile of other libraries.
 
