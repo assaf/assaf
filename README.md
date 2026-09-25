@@ -1,4 +1,4 @@
-![](https://labnotes.org/content/images/2020/10/Home-View-Wide.jpg)
+![](Home-View-Wide.jpg)
 
 👏 Hey there, I'm Assaf.
 
