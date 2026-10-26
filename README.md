@@ -6,7 +6,7 @@
 
 🧪 I've been building developer tools since before it was a startup category: [Zombie](https://github.com/assaf/zombie) (headless browser testing), [Vanity](https://github.com/assaf/vanity) (A/B testing), [node-replay](https://github.com/assaf/node-replay) (HTTP record/replay), and a pile of other libraries.
 
-🚀 Right now I'm working on [Expense](https://github.com/assaf/expense) (expense tracking for the self-employed) and a couple of things I'll talk about when they're ready.
+🚀 Right now I'm working on [Expense](https://github.com/assaf/expense) (expense tracking for the self-employed), [Epical](https://epical.labnotes.org) (monitor your health from this app), and more things I'll talk about when they're ready.
 
 🟢 I take on **one part-time client** (20~30 hrs/week, remote): senior JavaScript/TypeScript, end-to-end features, with test coverage and docs. If your startup needs to ship, [hit me up](mailto:assaf@labnotes.org).
 
